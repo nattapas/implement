@@ -1,3 +1,3 @@
-Proof of concept and learn small thing.
+Proof of concept and learn small things.
 
 # Implement
